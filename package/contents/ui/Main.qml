@@ -1,12 +1,12 @@
-import QtQuick 2.0
-import QtQuick.Layouts 1.1
-import org.kde.plasma.plasmoid 2.0
-import org.kde.plasma.core 2.0 as PlasmaCore
-import org.kde.plasma.components 2.0 as PlasmaComponents
+import QtQuick 2.15
+import QtQuick.Layouts 1.15
+import org.kde.plasma.plasmoid 6.0
+import org.kde.plasma.core 6.0 as PlasmaCore
+import org.kde.plasma.components 6.0 as PlasmaComponents
 
-import org.kde.kquickcontrolsaddons 2.0 as KAddons
+import org.kde.kquickcontrolsaddons 6.0 as KAddons
 
-import org.kde.plasma.private.volume 0.1 as PlasmaVolume
+import org.kde.plasma.private.volume 1.0 as PlasmaVolume
 
 import "./code/Utils.js" as Utils
 import "./code/PulseObjectCommands.js" as PulseObjectCommands

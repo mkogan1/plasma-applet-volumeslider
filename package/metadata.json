@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "zrenfire@gmail.com",
+                "Name": "Chris Holland"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "A simple horizontal volume slider panel widget.",
+        "Icon": "org.kde.plasma.volume",
+        "Id": "com.github.zren.volumeslider",
+        "License": "GPL",
+        "Name": "Volume Slider",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "3",
+        "Website": "https://github.com/Zren/plasma-applet-volumeslider"
+    },
+    "X-KDE-PluginInfo-KdeStoreId": "1200724",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/Main.qml"
+}

@@ -1,7 +1,7 @@
 // Version 3
 
-import QtQuick 2.0
-import QtQuick.Layouts 1.0
+import QtQuick 2.15
+import QtQuick.Layouts 1.15
 
 Item {
 	id: page
